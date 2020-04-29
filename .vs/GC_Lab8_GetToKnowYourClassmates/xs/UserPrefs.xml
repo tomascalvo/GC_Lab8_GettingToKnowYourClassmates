@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{56D0B6E2-E157-41BA-AEC6-4163CA648455}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GC_Lab8_GetToKnowYourClassmates/Program.cs">
+    <Files>
+      <File FileName="GC_Lab8_GetToKnowYourClassmates/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GC__Lab8__GetToKnowYourClassmates FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
